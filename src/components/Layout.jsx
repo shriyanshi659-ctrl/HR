@@ -34,20 +34,6 @@ const Layout = () => {
           </div>
         </main>
 
-        {/* Fixed Footer */}
-        <footer className="bg-white bg-opacity-95 backdrop-blur-sm border-t border-gray-200 py-3 px-4 flex-shrink-0 shadow-lg">
-          <div className="container mx-auto text-center text-sm text-gray-700">
-            Powered by{' '}
-            <a 
-              href="https://www.botivate.in" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-indigo-600 hover:text-indigo-800 font-medium underline"
-            >
-              Botivate
-            </a>
-          </div>
-        </footer>
       </div>
 
     
